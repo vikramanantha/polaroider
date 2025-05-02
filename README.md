@@ -1,5 +1,6 @@
 # The Polaroider
 Vikram Anantha - May 2025
+<img src="icon.png" width="50%" alt="Icon">
 
 ## Why
 
@@ -50,4 +51,6 @@ pip install pillow
 
 ## End Result
 
-Once you generate your polaroids, just print them out at Walgreens with the 2x3 wallet prints, 
+Once you generate your polaroids, just print them out at Walgreens with the 2x3 wallet prints, and stick it onto your wall. At least, that's whaat I did.
+
+![Final Product](for_readme/alexbday_finalproduct.jpg)
