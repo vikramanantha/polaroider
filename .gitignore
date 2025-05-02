@@ -1,0 +1,5 @@
+pictures/*
+polaroids/*
+
+!pictures/alex_bday.jpg
+!polaroids/alex_bday_polaroid.jpg
